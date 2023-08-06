@@ -17,6 +17,7 @@
 		C48C46522A7FE09C0062E548 /* StockAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46512A7FE09C0062E548 /* StockAppUITests.swift */; };
 		C48C46542A7FE09C0062E548 /* StockAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46532A7FE09C0062E548 /* StockAppUITestsLaunchTests.swift */; };
 		C48C46612A7FE0AC0062E548 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46602A7FE0AC0062E548 /* Model.swift */; };
+		C48C46632A7FEBAD0062E548 /* StockCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46622A7FEBAD0062E548 /* StockCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C48C46512A7FE09C0062E548 /* StockAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockAppUITests.swift; sourceTree = "<group>"; };
 		C48C46532A7FE09C0062E548 /* StockAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C48C46602A7FE0AC0062E548 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		C48C46622A7FEBAD0062E548 /* StockCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C48C46602A7FE0AC0062E548 /* Model.swift */,
 				C48C46342A7FE09B0062E548 /* ViewController.swift */,
 				C48C46362A7FE09B0062E548 /* Main.storyboard */,
+				C48C46622A7FEBAD0062E548 /* StockCollectionViewCell.swift */,
 				C48C46392A7FE09C0062E548 /* Assets.xcassets */,
 				C48C463B2A7FE09C0062E548 /* LaunchScreen.storyboard */,
 				C48C463E2A7FE09C0062E548 /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C48C46632A7FEBAD0062E548 /* StockCollectionViewCell.swift in Sources */,
 				C48C46352A7FE09B0062E548 /* ViewController.swift in Sources */,
 				C48C46312A7FE09B0062E548 /* AppDelegate.swift in Sources */,
 				C48C46332A7FE09B0062E548 /* SceneDelegate.swift in Sources */,
